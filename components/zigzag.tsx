@@ -3,7 +3,7 @@ import Image from "next/image";
 import FeatImage01 from "@/public/images/jumuah.png";
 import FeatImage02 from "@/public/images/firstsaturdaylecture.jpg";
 import FeatImage03 from "@/public/images/recreationcenter.png";
-import FeatImage04 from "@/public/images/taraweeh.jpg";
+import FeatImage04 from "@/public/images/taraweeh.png";
 import FeatImage05 from "@/public/images/ramadan1446calendar.png";
 import FeatImage06 from "@/public/images/eidalfitr2025salah.png";
 import FeatImage07 from "@/public/images/eidaladha2025salah.png";
@@ -352,7 +352,7 @@ export default function Zigzag() {
                     Join Taraweeh every Ramadan!
                   </div>
                   <h3 className="h3 mb-3">
-                    Complete the Qur'an behind a Hafidh in Ramadan!
+                    Complete the Qur'an behind qualified Huffadh in Ramadan!
                   </h3>
                   <p className="text-xl text-gray-400 mb-4">
                     And learn about what each Juz in the Qur'an talks about with an English lecture supplimenting the Taraweeh by an Aa'lim.
